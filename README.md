@@ -45,5 +45,5 @@ A simple command line interface (CLI) to fetch and display the recent activity o
 ## Example
 
 ```sh
-node github-activity.js kamranahmedse
+node github-activity.js tesla
 ```
